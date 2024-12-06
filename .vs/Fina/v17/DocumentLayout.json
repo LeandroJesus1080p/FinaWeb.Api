@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leand\\Desktop\\Projetos\\Fina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B14E8D1-82B6-46D7-9F32-7C96C3CCE4CC}|Fina.Core\\Fina.Core.csproj|c:\\users\\leand\\desktop\\projetos\\fina\\fina.core\\enums\\etransactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B14E8D1-82B6-46D7-9F32-7C96C3CCE4CC}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\enums\\etransactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B14E8D1-82B6-46D7-9F32-7C96C3CCE4CC}|Fina.Core\\Fina.Core.csproj|c:\\users\\leand\\desktop\\projetos\\fina\\fina.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B14E8D1-82B6-46D7-9F32-7C96C3CCE4CC}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B14E8D1-82B6-46D7-9F32-7C96C3CCE4CC}|Fina.Core\\Fina.Core.csproj|c:\\users\\leand\\desktop\\projetos\\fina\\fina.core\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B14E8D1-82B6-46D7-9F32-7C96C3CCE4CC}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\Fina\\Fina.Core\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Fina.Core\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\Fina\\Fina.Core\\Models\\Transaction.cs*",
+              "RelativeToolTip": "Fina.Core\\Models\\Transaction.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:39:35.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\Fina\\Fina.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Fina.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\Fina\\Fina.Core\\Models\\Category.cs",
+              "RelativeToolTip": "Fina.Core\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:39:33.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ETransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Projetos\\Fina\\Fina.Core\\Enums\\ETransactionType.cs",
+              "RelativeDocumentMoniker": "Fina.Core\\Enums\\ETransactionType.cs",
+              "ToolTip": "C:\\Users\\leand\\Desktop\\Projetos\\Fina\\Fina.Core\\Enums\\ETransactionType.cs",
+              "RelativeToolTip": "Fina.Core\\Enums\\ETransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:39:26.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
